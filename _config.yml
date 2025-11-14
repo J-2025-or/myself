@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name:  pretty woman
 # URL for the Image of the Author
-author-image: /assets/images/my-photo.png
+author-image: /assets/images/my-photo.png.png
 # 60 Words About the Author
 author-about: Welcome to my world! I'm a Computer Science student currently focusing on Python, C Language, Databases, Operating Systems, Discrete Math, HCL, and Data Science/Analytics.
 
