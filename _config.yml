@@ -45,13 +45,12 @@ author-name:  pretty woman
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: "Welcome to my world!
+author-about: 저는 컴퓨터 전공 수업을 듣는 학생이며, 파이썬, C언어, 데이터베이스, 운영체제, 이산수학, HCL, 데이터 과학/분석에 열중하고 있습니다. 저의 기록과 함께 많은 정보를 얻어가시길 바랍니다!
 
-I am a student currently taking major courses to delve deeply into the field of Computer Science.
 
-My current focus areas and passions include: Python, C Language, Databases, Operating Systems, Discrete Mathematics, HCL, and Data Science/Analytics.
 
-This space is dedicated to documenting my learning journey. I hope you gain a lot of valuable information as you explore my records and insights here."
+
+
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
