@@ -2,7 +2,8 @@
 title: Final Report on AI - Limits and Societal Benefits (HCL Course)
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: This report, stemming from the HCL course,provides an in-depth analysis of the practical benefits AI brings to our lives, contrasted with the technical and ethical limitations it currently faces.
+description: >
+  This report, stemming from the HCL course, provides an in-depth analysis of the practical benefits AI brings to our lives, contrasted with the technical and ethical limitations it currently faces.
 tags:
 - sample
 - post
