@@ -1,8 +1,7 @@
 - name: First Project
   link:
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  description: "Human-Machine Interaction: How We Perceive the World"  
-
+  description: "Human-Machine Interaction: How We Perceive the World!"
 - name: Second Project
   link:
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
